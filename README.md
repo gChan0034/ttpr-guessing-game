@@ -47,3 +47,20 @@
   ```
   - This will install the needed packages and run Jasmine.
 - Make sure all tests pass before submitting your assignment.
+
+## 🚀 Hosting with Vercel
+
+Deploy your game live for free in 2 minutes:
+
+1. **Push to GitHub**  
+   Make sure your code is committed and pushed to a GitHub repository.
+
+2. **Deploy via Vercel**:  
+   - Go to [vercel.com/new](https://vercel.com/new)
+   - Click "Import Git Repository" and connect your GitHub account
+   - Select your game repository
+   - Click "Deploy" (no configuration needed!)
+
+3. **Access Live Demo**:  
+   Vercel will provide a URL like:  
+   `https://your-project-name.vercel.app`
